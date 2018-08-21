@@ -3,9 +3,12 @@ Project in course: Computer Networks and Distributed Systems. A simple distribut
 
 **Language: Java**
 
-**Client**
+**Client GUI**
+
 ![dm](https://github.com/JohanWindahl/DAJN-chat-application/blob/master/png/Client.png)
 
-**Server** ![dm](https://github.com/JohanWindahl/DAJN-chat-application/blob/master/png/Server.png)
+**Server GUI** 
+
+![dm](https://github.com/JohanWindahl/DAJN-chat-application/blob/master/png/Server.png)
 
 
