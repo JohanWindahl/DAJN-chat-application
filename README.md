@@ -1,6 +1,11 @@
 # DAJN-chat-application
 Project in course: Computer Networks and Distributed Systems
 
+#### Language: Java ####
+#### Network: Sockets ####
+#### GUI: JFrame ####
+
+
 A simple distributed system with synchronization, where clients can connect to a server and chat.
 
 **Client**
